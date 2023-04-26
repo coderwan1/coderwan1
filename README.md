@@ -44,7 +44,7 @@
     </thead>
     <tr>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/> </td>
-      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/django/django-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> </td>
       <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"/> </td>
       <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119071-da8aff75-02b1-4c6d-8232-507b9454cd49.png"/></td>
       <td align="center" width=110><img width=60 src="https://user-images.githubusercontent.com/27622683/192119394-0284fdfc-3ad2-460c-8b57-5ed13a2cbfc0.png"/></td>
@@ -63,6 +63,13 @@
         <td align="center" width=110>ReactJs</td>
         <td align="center" width=110>Bootstrap</td>
         <td align="center" width=110>JQuery</td>
+      </tr>
+       <tr>
+        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/> </td>
+        <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/> </td>
+      <tr align="center"> 
+        <td align="center" width=110>NextJs</td>
+        <td align="center" width=110>Tailwind</td>
       </tr>
     </tr>
   </table>
